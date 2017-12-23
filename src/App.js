@@ -23,6 +23,9 @@ class App extends Component {
         }, {
           title: "Ecommerce Shopping Cart",
           category: "Web Development"
+        }, {
+          title: "Cricket App",
+          category: "Android App Development"
         }
       ]
     });
