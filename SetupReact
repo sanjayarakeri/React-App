@@ -10,6 +10,7 @@
 6. Now create your project folder in a directory you wish, run this command in your terminal:
    syntax : create-react-app Project name/folder name 
             create-react-app React-App  ( in this case my Project name / folder name is React-App).
+            cd React-App
 7. After running the above step, you will get the project structure without any configuration.
 8. After Project Setup, Run npm start to launch the development server. The browser will open
    automatically with the created app’s URL. runn this command in your terminal:
