@@ -1,0 +1,18 @@
+1. Download Latest NodejS - https://nodejs.org/en/.
+2. To check if you have Node.js installed, run this command in your terminal:
+   node -v
+3. Open NodejS Command Prompt and run this command in your terminal:
+   npm install npm@latest -g
+4. To confirm that you have npm installed you can run this command in your terminal:
+   npm -v
+5. To Insall create-react-app, run this command in your terminal:
+   npm install -g create-react-app
+6. Now create your project folder in a directory you wish, run this command in your terminal:
+   syntax : create-react-app Project name/folder name 
+            create-react-app React-App  ( in this case my Project name / folder name is React-App).
+7. After running the above step, you will get the project structure without any configuration.
+8. After Project Setup, Run npm start to launch the development server. The browser will open
+   automatically with the created app’s URL. runn this command in your terminal:
+   npm start
+9. Copy and paste the following URL in your browser.
+   http://localhost:3000/ - 
